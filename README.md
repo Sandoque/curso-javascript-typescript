@@ -27,7 +27,7 @@
 ## :bookmark_tabs: Listagem do conteúdo principal
 
 
-- [x] Lista do que será ensinado nas seções:
+### Lista do que será ensinado nas seções:
 
 - [x] Instalação dos programas utilizados ao longo do curso (Node, Visual Studio Code e mais)
 
