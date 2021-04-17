@@ -83,6 +83,8 @@ As seguintes tecnologias estão sendo usadas na construção do projeto:
 | - | - | - | - |
 | <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> | <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> | <img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/> | <img height="30" src="https://user-images.githubusercontent.com/65127683/113470576-fd0ea780-942c-11eb-9fd1-dbb8ac0de186.png"/> |
 
+
+-->
 ---
 
 <a href="https://www.linkedin.com/in/sandoque/">
@@ -93,7 +95,7 @@ As seguintes tecnologias estão sendo usadas na construção do projeto:
  
 [![Linkedin Badge](https://img.shields.io/badge/-Sandoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandoque/)](https://www.linkedin.com/in/sandoque/) [![Gmail Badge](https://img.shields.io/badge/-acsandoque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acsandoque@gmail.com)](mailto:acsandoque@gmail.com)
 
--->
+
 
 <!-- ---
 ## :page_with_curl: Licença
