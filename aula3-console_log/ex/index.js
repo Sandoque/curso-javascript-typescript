@@ -1,0 +1,1 @@
+console.log('Meu nome é "Sandoque". Estou apendendo javascript às',16, 'da tarde.');
